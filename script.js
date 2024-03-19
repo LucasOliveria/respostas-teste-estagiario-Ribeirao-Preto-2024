@@ -42,7 +42,7 @@ console.log(findNumber(5));
 ///////////////////////////////////////////////
 
 // Questão 5
-function inverterString(string) {
+function reverseString(string) {
   let invertedString = "";
 
   for (let i = string.length - 1; i >= 0; i--) {
@@ -53,4 +53,4 @@ function inverterString(string) {
 }
 
 
-console.log(inverterString("Estagiário Ribeirão Preto 2024")); // 4202 oterP oãriebiR oiráigatsE
+console.log(reverseString("Estagiário Ribeirão Preto 2024")); // 4202 oterP oãriebiR oiráigatsE
