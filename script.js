@@ -37,7 +37,7 @@ function findNumber(number) {
   }
 }
 
-console.log(findNumber(7));
+console.log(findNumber(5));
 
 ///////////////////////////////////////////////
 
